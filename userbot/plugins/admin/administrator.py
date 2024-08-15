@@ -53,7 +53,8 @@ async def unban(bot: UserBot, message: Message):
 
 
 # Mute Permissions
-mute_permission = ChatPermissions(
+mute_permission = 
+ChatPermissions(
     can_send_messages=False,
     can_send_media_messages=False,
     can_send_other_messages=False,
