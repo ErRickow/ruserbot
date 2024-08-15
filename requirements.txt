@@ -1,3 +1,4 @@
+aiohttp
 aiofiles==22.1.0
 aiosignal==1.2.0
 APScheduler==3.9.1
